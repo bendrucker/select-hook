@@ -1,7 +1,7 @@
 {
   "name": "select-hook",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "virtual-dom hook for setting text selection",
   "license": "MIT",
   "repository": "bendrucker/select-hook",
