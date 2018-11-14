@@ -1,4 +1,4 @@
-# select-hook [![Build Status](https://travis-ci.org/bendrucker/select-hook.svg?branch=master)](https://travis-ci.org/bendrucker/select-hook)
+# select-hook [![Build Status](https://travis-ci.org/bendrucker/select-hook.svg?branch=master)](https://travis-ci.org/bendrucker/select-hook) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/select-hook.svg)](https://greenkeeper.io/)
 
 > virtual-dom hook for setting text selection
 
